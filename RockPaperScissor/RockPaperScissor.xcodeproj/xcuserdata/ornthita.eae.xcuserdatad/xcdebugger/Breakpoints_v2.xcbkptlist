@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6D61D7BA-FDC1-493E-9617-8219F44873FE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0BC47C0A-2B94-4375-BD83-7BC6D8580D23"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RockPaperScissor/PlayGame/PlayGameInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "play(request:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98B29344-AC1B-4EE4-B0AD-584351C1CBD5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RockPaperScissor/PlayGame/PlayGameInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "calScore(botCh:playerCh:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DECEA8E7-3DF7-45A9-88E7-095B6B125837"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RockPaperScissor/PlayGame/PlayGameInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "play(request:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DECEA8E7-3DF7-45A9-88E7-095B6B125837 - bf5bdd2f9ecac65d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RockPaperScissor.PlayGameInteractor.play(request: RockPaperScissor.PlayGameScene.PlayGame.Request) -&gt; ()"
+                  moduleName = "RockPaperScissor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ornthita.eae/Desktop/RockPaperScissor/RockPaperScissor/PlayGame/PlayGameInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "834">
+               </Location>
+               <Location
+                  uuid = "DECEA8E7-3DF7-45A9-88E7-095B6B125837 - bf5bdd2f9ecac65d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RockPaperScissor.PlayGameInteractor.play(request: RockPaperScissor.PlayGameScene.PlayGame.Request) -&gt; ()"
+                  moduleName = "RockPaperScissor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ornthita.eae/Desktop/RockPaperScissor/RockPaperScissor/PlayGame/PlayGameInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "837">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8940114D-08C4-4F4F-A8DD-1934287EF517"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RockPaperScissor/PlayGame/PlayGameInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "play(request:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8940114D-08C4-4F4F-A8DD-1934287EF517 - bf5bdd2f9ecac61f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RockPaperScissor.PlayGameInteractor.play(request: RockPaperScissor.PlayGameScene.PlayGame.Request) -&gt; ()"
+                  moduleName = "RockPaperScissor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ornthita.eae/Desktop/RockPaperScissor/RockPaperScissor/PlayGame/PlayGameInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "859">
+               </Location>
+               <Location
+                  uuid = "8940114D-08C4-4F4F-A8DD-1934287EF517 - bf5bdd2f9ecac61f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RockPaperScissor.PlayGameInteractor.play(request: RockPaperScissor.PlayGameScene.PlayGame.Request) -&gt; ()"
+                  moduleName = "RockPaperScissor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ornthita.eae/Desktop/RockPaperScissor/RockPaperScissor/PlayGame/PlayGameInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "1101">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "024FE439-FBE7-4D69-AD12-27F3F06E0BA7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RockPaperScissor/PlayGame/PlayGameInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "setPlayer(to:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8A498AC-3A7C-4A8F-9F24-C9D86CAF6FBB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RockPaperScissor/PlayGame/PlayGameInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "play(request:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
